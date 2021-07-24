@@ -1,0 +1,9 @@
+{
+  "name": "neverending-story-pointer-server",
+  "version": "0.0.1",
+  "description": "server for neverending story pointer",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
